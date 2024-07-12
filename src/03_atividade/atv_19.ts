@@ -2,5 +2,5 @@
 
 let peso = Number(prompt('Digite o seu peso: '));
 let altura = Number(prompt('Digite o seu altura: '));
-let imc = peso/(altura**2);
-alert(`O seu IMC é: ${imc.toFixed(2)}`);
+let imc: number = peso/(altura**2);
+console.log(`O seu IMC é: ${imc.toFixed(2)}`);
