@@ -17,6 +17,8 @@ O curso é dividido em 200 horas, sendo 144 horas de aulas presenciais e 56 hora
 5. **Web services - Client**
 6. **Noções de UX**
 
+<br>
+
 ## Atividades e Projetos 🛠️
 
 ### Módulo 1: Lógica de Programação com Typescript 🔢
