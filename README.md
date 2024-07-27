@@ -84,7 +84,7 @@ O curso é dividido em 200 horas, sendo 144 horas de aulas presenciais e 56 hora
 ### Contato 📬
 
 - Nome: Augusto Dantas
-- Email: augustow.dantas@gmail.com@gmail.com
+- Email: augustow.dantas@gmail.com
 - Portifólio: https://augustowdantas.vercel.app/
 - LinkedIn: [Augusto Dantas](https://www.linkedin.com/in/augusto-dantas/)
 - GitHub: [AugustoWdantas](https://github.com/devAugustoW)
