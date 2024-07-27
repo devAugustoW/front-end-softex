@@ -1,4 +1,4 @@
-# Programa de Formação Acelerada em Programação - SOFTEX 🚀
+# Formação Acelerada em Programação - SOFTEX 🚀
 
 ![Formação Acelerada em Programação](/src/assets/banner_fap.webp)
 
